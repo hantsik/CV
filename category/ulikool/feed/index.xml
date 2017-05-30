@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ülikool &#8211; Hanna-Stina</title>
+	<atom:link href="http://localhost/wordpress/category/ulikool/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hantsik.github.io/CV</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 May 2017 19:26:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Ülikooli Blogi vol 2</title>
+		<link>https://hantsik.github.io/CV/2016/03/27/ulikooli-blogi-vol-2/</link>
+		<comments>https://hantsik.github.io/CV/2016/03/27/ulikooli-blogi-vol-2/#respond</comments>
+		<pubDate>Sun, 27 Mar 2016 16:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[hss]]></dc:creator>
+				<category><![CDATA[Ülikool]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Teine postitus ülikooli jaoks on saadaval&#160;siin!]]></description>
+				<content:encoded><![CDATA[<p>Teine postitus ülikooli jaoks on saadaval&nbsp;<a href="http://blogs.bath.ac.uk/fed-placements/2016/03/24/everyday-life-at-the-buro/">siin!</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://hantsik.github.io/CV/2016/03/27/ulikooli-blogi-vol-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ülikooli Blogi</title>
+		<link>https://hantsik.github.io/CV/2016/01/28/ulikooli-blogi/</link>
+		<comments>https://hantsik.github.io/CV/2016/01/28/ulikooli-blogi/#respond</comments>
+		<pubDate>Thu, 28 Jan 2016 21:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[hss]]></dc:creator>
+				<category><![CDATA[Ülikool]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[Ülikool palus nende Engineering Placements blogisse kirjutama hakata. Esimene postitus [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ülikool palus nende Engineering Placements blogisse kirjutama hakata. Esimene postitus on siin:</p>
+<p>http://blogs.bath.ac.uk/fed-placements/2016/01/22/part-time-blogger-full-time-engineer/</p>
+]]></content:encoded>
+			<wfw:commentRss>https://hantsik.github.io/CV/2016/01/28/ulikooli-blogi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

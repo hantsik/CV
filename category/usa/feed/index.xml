@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>USA &#8211; Hanna-Stina</title>
+	<atom:link href="http://localhost/wordpress/category/usa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hantsik.github.io/CV</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 May 2017 19:26:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>New York</title>
+		<link>https://hantsik.github.io/CV/2017/04/30/new-york/</link>
+		<comments>https://hantsik.github.io/CV/2017/04/30/new-york/#respond</comments>
+		<pubDate>Sun, 30 Apr 2017 19:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[hss]]></dc:creator>
+				<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: center;"><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0111.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0111.jpg" /></a></div>
+<p><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0191.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0191.jpg" /></a></p>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0186.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0186.jpg" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0159.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0159.jpg" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0161.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0161.jpg" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0139.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0139.jpg" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0124.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/04/DSC_0124.jpg" /></a></div>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>https://hantsik.github.io/CV/2017/04/30/new-york/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

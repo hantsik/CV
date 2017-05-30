@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Hanna-Stina</title>
+	<atom:link href="http://localhost/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hantsik.github.io/CV</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 May 2017 19:26:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Wes Andersoni lühifilm</title>
+		<link>https://hantsik.github.io/CV/2015/04/02/wes-andersoni-luhifilm/</link>
+		<comments>https://hantsik.github.io/CV/2015/04/02/wes-andersoni-luhifilm/#respond</comments>
+		<pubDate>Thu, 02 Apr 2015 08:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[hss]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><iframe width="720" height="600" src="https://www.youtube.com/embed/b87B7zyucgI" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>https://hantsik.github.io/CV/2015/04/02/wes-andersoni-luhifilm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Viimase nädala saavutus</title>
+		<link>https://hantsik.github.io/CV/2013/11/10/viimase-nadala-saavutus/</link>
+		<comments>https://hantsik.github.io/CV/2013/11/10/viimase-nadala-saavutus/#respond</comments>
+		<pubDate>Sun, 10 Nov 2013 22:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[hss]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://hantsik.github.io/CV/2013/11/10/viimase-nadala-saavutus/</guid>
+		<description><![CDATA[Tegelikult on meie grupp selle projektiga juba 6 nädalat tegelenud, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
+<div style="text-align: left;">Tegelikult on meie grupp selle projektiga juba 6 nädalat tegelenud, aga kuna neljapäeval oli skulptuuri valmimise tähtaeg, siis oli eelmine nädal päris metsik stuudios möllamine. Mina olin ainus kes Photoshopi oskas kasutada ja nii jäi kuidagi ka Adobe InDesigne&#8217;i (ajakirjade jms kujundusprogramm) kastamine/õppimine minu peale. Lõpptulemusena pidin mina mitmeid kordi rohkem tunde oma vabast ajast ohverdama, et läpaka taga vaikselt design report valmis nokitseda. See saigi täna valmis, homme läheme trükkima ja köitma ning sellega lõppeb minu disaini stuudio selleks poolaastaks. Reporti esikaas:</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<p><a href="http://4.bp.blogspot.com/-2XoT2xdHSy4/UoANvxXzLqI/AAAAAAAABRQ/c1mK4gNegY8/s1600/Transformation+DR.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="452" src="http://4.bp.blogspot.com/-2XoT2xdHSy4/UoANvxXzLqI/AAAAAAAABRQ/c1mK4gNegY8/s640/Transformation+DR.jpg" width="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://hantsik.github.io/CV/2013/11/10/viimase-nadala-saavutus/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
