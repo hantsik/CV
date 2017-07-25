@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/category/norra/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hantsik.github.io/CV</link>
 	<description></description>
-	<lastBuildDate>Wed, 31 May 2017 10:38:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Jul 2017 18:32:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,11 +26,9 @@
 				<category><![CDATA[Norra]]></category>
 
 		<guid isPermaLink="false"></guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/01/DSC_0093.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/01/DSC_0093.jpg" /></a></div>
-<p></p>
-<div style="clear: both; text-align: center;"><a href="https://hantsik.github.io/CV/wp-content/uploads/2017/01/DSC_0101.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://hantsik.github.io/CV/wp-content/uploads/2017/01/DSC_0101.jpg" /></a></div>
-<p></p>
+		<description><![CDATA[&#160;]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="https://hantsik.github.io/CV/wp-content/uploads/2017/01/DSC_0101.jpg"><img src="https://hantsik.github.io/CV/wp-content/uploads/2017/01/DSC_0101.jpg" border="0" /></a></div>
+<p>&nbsp;</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://hantsik.github.io/CV/2017/01/22/oslo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
